@@ -22,13 +22,6 @@ header h1 {
     color: #212121;
 }
 
-header h2 {
-    color: #212121;
-    font-style: normal;
-    margin-top: 0.8em;
-    font-size: 1.3em;
-}
-
 nav {
     margin-top: 2em;
 }
@@ -55,7 +48,7 @@ section {
     font-size: 1.1em;
 }
 
-h3 {
+h2 {
     padding-bottom: 0.3em;
     color: #212121;
     margin-top: 0.8em;
